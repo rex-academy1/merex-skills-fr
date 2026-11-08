@@ -1,0 +1,8 @@
+{
+  "name": "merex-skills-fr",
+  "version": "0.1.0",
+  "description": "Collection de 26 skills en français pour le trading, le marketing, le media buying, la data, le design, le copywriting, la vidéo, les réseaux sociaux et le SEO. Traduite, adaptée et organisée par Merex Academy à partir de projets open source sous licence MIT.",
+  "author": { "name": "Merex Academy" },
+  "license": "MIT",
+  "keywords": ["francais", "trading", "prop-firm", "marketing", "media-buying", "copywriting", "video", "seo", "design"]
+}
